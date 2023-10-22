@@ -9,4 +9,8 @@ My friend's father has this disease. I didn't know about this before. Then I did
 ## Tech Stack
 
 
+## Result Analysis
+![image](https://github.com/Mahak-G/Parkinson-Analysis/assets/56362610/99c1de5a-11c2-4b3f-a81f-723d2e5c0dbe)
+
+
 
