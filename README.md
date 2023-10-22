@@ -7,10 +7,17 @@ My friend's father has this disease. I didn't know about this before. Then I did
 
 
 ## Tech Stack
+I used UCI ML Parkinsons dataset which has 24 columns and 195 records. This dataset is composed of a range of biomedical voice measurements from 31 people, 23 with Parkinson's disease (PD). Each column in the table is a particular voice measure, and each row corresponds to one of 195 voice recordings from these individuals ("name" column). The main aim of the data is to discriminate healthy people from those with PD, according to the "status" column which is set to 0 for healthy and 1 for PD.
 
+# Preprocessing Analysis
+![image](https://github.com/Mahak-G/Parkinson-Analysis/assets/56362610/b90ea0d1-6da4-4c57-8cbc-9005fc1e3504)
+
+In this project, we will use the XGBClassifier from the xgboost library, RandomForestClassifier from sklearn.ensemble, SVC from sklearn.svm and Artificial Neutral Network(ANN) model that will contain two hidden layers and one output layer. Finally, we compare all these four models and check which works better.
 
 ## Result Analysis
-![image](https://github.com/Mahak-G/Parkinson-Analysis/assets/56362610/99c1de5a-11c2-4b3f-a81f-723d2e5c0dbe)
+![image](https://github.com/Mahak-G/Parkinson-Analysis/assets/56362610/3e10899f-c791-43dd-b446-0180a1ecdced)
+
+
 
 
 
