@@ -4,7 +4,7 @@
 Any disease in the human body is tough. Parkinson's disease is also one of them. Many of us don't know about this disease and its symptoms unless we know someone who has it. Early Detection of this disease is important. they say it doesn't have any cure. Some of its symptoms are weakening of the central nervous system, tremors, slowed movement, freezing, rigidity, and shuffling steps. 
 
 Motivation:
-there are these people who are facing a lack of balance in movement from the moment they suffer from this disease, not able to even dress, not able to even pick a glass of water, it would be very difficult for them and for their loved ones. Writing about its definition and symptoms won't do any justice to the people who are suffering from this. This project of detection of Parkison's disease using machine learning libraries is a little motivation I got from these people who despite every obstacle they have in life still doing their job so well.
+there are these people who are facing a lack of balance in movement from the moment they suffer from this disease, not able to even dress, not able to even pick a glass of water, it would be very difficult for them and for their loved ones. Just writing about its definition and symptoms won't do any justice to the people who are suffering from this, early detection of this disease will improve the lives of patients and their families. This project of detection of Parkison's disease using machine learning libraries is a little motivation I got from these people who despite every obstacle they have in life still doing their job so well.
 
 
 ## Tech Stack
